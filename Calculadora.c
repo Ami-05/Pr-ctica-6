@@ -1,7 +1,7 @@
 //Cruz Apodaca Amiel Merari//
 //En el siguiente programa se muestra una calculadora con cuatro funciones:// 
 //sumar,restar, multiplicar y dividir//
-
+//Inicio//
 #include <stdio.h>
 int main()
 {
@@ -64,3 +64,4 @@ printf ("la operación es;%d\n", res);
 
 return 0;
 }
+//Fin//
