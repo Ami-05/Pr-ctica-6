@@ -17,6 +17,7 @@ int main()
     printf ("2- resta \n");
     printf ("3- multiplicación \n");
     printf ("4- división\n");
+    printf ("0- Salida\n");
   //Leer op//  
     scanf ("%u" , &op);
   // Si op es diferente de 0//
@@ -58,6 +59,7 @@ printf ("la operación es;%d\n", res);
     printf ("2- resta \n");
     printf ("3- multiplicación \n");
     printf ("4- división\n");
+    printf ("0- Salida\n");
     //Leer op//
     scanf ("%u" , &op);
 }
